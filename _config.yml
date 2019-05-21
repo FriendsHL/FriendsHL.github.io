@@ -5,23 +5,23 @@ theme: jekyll-theme-architect
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title:  友人的博客
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
+description: " 友人的博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+timezone: Asia/BeiJing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Friend HL
 organization: 
 organization_url: 
 github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+location: BeiJing, China
+email: 358517331@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -82,7 +82,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: friendshl/friendshl.github.io
 
 # ---------------- #
 #      Comments    #
